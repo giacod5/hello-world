@@ -1,2 +1,2 @@
 # hello-world
-This repo is to discover all the functionalities of Github
+I will understand more about Git and GitHub!
